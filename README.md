@@ -167,5 +167,6 @@ For bicep curls run bicep_curls_byuploadingfiles.py by uploading the files and t
 This is full and full rule based approach no MobileNet model is  been used for bicep curls
 
 For frontraise run frontraises.py to analyse the video for rule based approach 
+
 ---
 
