@@ -152,12 +152,20 @@ venv/
 
 ## How to run?
 
+---
+
 So MobileNet model was used only for frontraises so first the video clips has to be collected both correct and incorrect then upload them seperately in the dataset_split
+
 Then for training do run augument.py and then test the model using test.py
+
 Before testing run save_test_data.py
+
 So this is all about Frontraises
+
 For bicep curls run bicep_curls_byuploadingfiles.py by uploading the files and the results what i got was perfect as well rtsp code is also available in bicep_curls_rtsp.py
+
 This is full and full rule based approach no MobileNet model is  been used for bicep curls
+
 For frontraise run frontraises.py to analyse the video for rule based approach 
 ---
 
