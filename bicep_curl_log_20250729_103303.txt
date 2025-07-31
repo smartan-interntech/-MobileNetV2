@@ -1,0 +1,25 @@
+Session started at 2025-07-29 10:33:03
+Set | Rep | Side | Duration (s) | Timestamp | Method
+-----------------------------------------------------------
+--- SET 1 STARTED ---
+1 | 1 | Left | 1.03 | 2025-07-29 10:33:08 | Angle
+1 | 2 | Left | 0.80 | 2025-07-29 10:33:11 | Angle
+1 | 3 | Left | 1.04 | 2025-07-29 10:33:13 | Angle
+1 | 4 | Left | 1.03 | 2025-07-29 10:33:15 | Angle
+1 | 5 | Left | 0.91 | 2025-07-29 10:33:17 | Angle
+1 | 6 | Left | 1.02 | 2025-07-29 10:33:20 | Angle
+1 | 7 | Left | 1.02 | 2025-07-29 10:33:22 | Angle
+1 | 8 | Left | 0.57 | 2025-07-29 10:33:24 | Angle
+1 | 9 | Left | 0.91 | 2025-07-29 10:33:26 | Angle
+1 | 10 | Left | 0.91 | 2025-07-29 10:33:29 | Angle
+--- SET 1 COMPLETED: 10 reps ---
+
+Session Summary
+-----------------
+Start Time: 2025-07-29 10:33:03
+End Time: 2025-07-29 10:33:31
+Total Duration: 28.71 seconds
+Total Sets: 1
+Total Reps: 10
+Average Rep Time: 0.93 seconds
+Average Reps per Set: 10.0
